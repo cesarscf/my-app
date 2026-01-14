@@ -21,8 +21,11 @@
       "suspicious": {
         "noUnknownAtRules": "off"
       },
-      "correctness":{
+      "correctness": {
         "noChildrenProp": "off"
+      },
+      "a11y": {
+        "noSvgWithoutTitle": "off"
       }
     },
     "domains": {

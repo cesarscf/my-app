@@ -1,6 +1,6 @@
 # My App
 
-Aplicativo de conexão entre clientes e profissionais, similar ao GetNinjas.
+Aplicativo de conexão entre clientes e profissionais.
 
 ## Visão Geral
 
@@ -145,13 +145,6 @@ Ao acessar um link, o sistema valida:
 - Visualizar detalhes do pedido
 - Outras ações contextuais
 
-## Tecnologias
-
-- Next.js
-- Better Auth (autenticação por telefone)
-- Drizzle ORM
-- Shadcn UI
-
 ## Definições Pendentes
 
 ### MVP Atual
@@ -163,6 +156,4 @@ Ao acessar um link, o sistema valida:
 ### Funcionalidades Futuras
 - [ ] Sistema de backoffice para aprovação de parceiros
 - [ ] Sistema de avaliações e reviews
-- [ ] Chat in-app (alternativa ao WhatsApp)
-- [ ] Notificações push
 - [ ] Filtros avançados de busca de pedidos
